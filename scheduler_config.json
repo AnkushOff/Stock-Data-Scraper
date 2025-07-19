@@ -1,0 +1,14 @@
+{
+  "email_notifications": false,
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "email_address": "",
+  "email_password": "",
+  "default_symbols": [
+    "AAPL",
+    "GOOGL",
+    "MSFT",
+    "AMZN",
+    "TSLA"
+  ]
+}
