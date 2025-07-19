@@ -103,6 +103,6 @@
    ```
 3. **Run the file**
    ```bash
-   pythin main.py
+   python main.py
    ```
 ---
